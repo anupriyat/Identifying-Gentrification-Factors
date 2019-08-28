@@ -1,0 +1,29 @@
+newvars,oldvars,rent_type,rooms,rent_bracket
+gross_rent_rooms_none_300_less,B25068_004E,gross,none,300 less
+gross_rent_rooms_none_300_to_499,B25068_005E,gross,none,300 to 499
+gross_rent_rooms_none_500_to_749,B25068_006E,gross,none,500 to 749
+gross_rent_rooms_none_750_to_999,B25068_007E,gross,none,750 to 999
+gross_rent_rooms_none_1000_to_1499,B25068_008E,gross,none,1000 to 1499
+gross_rent_rooms_none_1500_plus,B25068_009E,gross,none,1500 plus
+gross_rent_rooms_none_no_cash,B25068_010E,gross,none,no cash
+gross_rent_rooms_1_300_less,B25068_013E,gross,1,300 less
+gross_rent_rooms_1_300_to_499,B25068_014E,gross,1,300 to 499
+gross_rent_rooms_1_500_to_749,B25068_015E,gross,1,500 to 749
+gross_rent_rooms_1_750_to_999,B25068_016E,gross,1,750 to 999
+gross_rent_rooms_1_1000_to_1499,B25068_017E,gross,1,1000 to 1499
+gross_rent_rooms_1_1500_plus,B25068_018E,gross,1,1500 plus
+gross_rent_rooms_1_no_cash,B25068_019E,gross,1,no cash
+gross_rent_rooms_2_300_less,B25068_022E,gross,2,300 less
+gross_rent_rooms_2_300_to_499,B25068_023E,gross,2,300 to 499
+gross_rent_rooms_2_500_to_749,B25068_024E,gross,2,500 to 749
+gross_rent_rooms_2_750_to_999,B25068_025E,gross,2,750 to 999
+gross_rent_rooms_2_1000_to_1499,B25068_026E,gross,2,1000 to 1499
+gross_rent_rooms_2_1500_plus,B25068_027E,gross,2,1500 plus
+gross_rent_rooms_2_no_cash,B25068_028E,gross,2,no cash
+gross_rent_rooms_3_plus_300_less,B25068_031E,gross,3 plus,300 less
+gross_rent_rooms_3_plus_300_to_499,B25068_032E,gross,3 plus,300 to 499
+gross_rent_rooms_3_plus_500_to_749,B25068_033E,gross,3 plus,500 to 749
+gross_rent_rooms_3_plus_750_to_999,B25068_034E,gross,3 plus,750 to 999
+gross_rent_rooms_3_plus_1000_to_1499,B25068_035E,gross,3 plus,1000 to 1499
+gross_rent_rooms_3_plus_1500_plus,B25068_036E,gross,3 plus,1500 plus
+gross_rent_rooms_3_plus_no_cash,B25068_037E,gross,3 plus,no cash

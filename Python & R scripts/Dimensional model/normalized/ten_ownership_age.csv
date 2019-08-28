@@ -1,0 +1,19 @@
+newvars,oldvars,ownership_type,age
+tenure_by_age_owner_15_to_24,B25007_003E,owner,less 25
+tenure_by_age_owner_25_to_34,B25007_004E,owner,25 to 44
+tenure_by_age_owner_35_to_44,B25007_005E,owner,26 to 44
+tenure_by_age_owner_45_to_54,B25007_006E,owner,45 to 64
+tenure_by_age_owner_55_to_59,B25007_007E,owner,46 to 64
+tenure_by_age_owner_60_to_64,B25007_008E,owner,46 to 64
+tenure_by_age_owner_65_to_74,B25007_009E,owner,65 plus
+tenure_by_age_owner_75_to_84,B25007_010E,owner,65 plus
+tenure_by_age_owner_85_plus,B25007_011E,owner,65 plus
+tenure_by_age_renter_15_to_24,B25007_013E,renter,less 25
+tenure_by_age_renter_25_to_34,B25007_014E,renter,25 to 44
+tenure_by_age_renter_35_to_44,B25007_015E,renter,26 to 44
+tenure_by_age_renter_45_to_54,B25007_016E,renter,45 to 64
+tenure_by_age_renter_55_to_59,B25007_017E,renter,46 to 64
+tenure_by_age_renter_60_to_64,B25007_018E,renter,46 to 64
+tenure_by_age_renter_65_to_74,B25007_019E,renter,65 plus
+tenure_by_age_renter_75_to_84,B25007_020E,renter,65 plus
+tenure_by_age_renter_85_plus,B25007_021E,renter,65 plus

@@ -1,0 +1,47 @@
+newvars,oldvars,gender,age
+male_under_5,B01001_003E,male,less 25
+male_5_to_9,B01001_004E,male,less 25
+male_10_to_14,B01001_005E,male,less 25
+male_15_to_17,B01001_006E,male,less 25
+male_18_to_19,B01001_007E,male,less 25
+male_20,B01001_008E,male,less 25
+male_21,B01001_009E,male,less 25
+male_22_to_24,B01001_010E,male,less 25
+male_25_to_29,B01001_011E,male,25 to 44
+male_30_to_34,B01001_012E,male,25 to 44
+male_35_to_39,B01001_013E,male,25 to 44
+male_40_to_44,B01001_014E,male,25 to 44
+male_45_to_49,B01001_015E,male,45 to 64
+male_50_to_54,B01001_016E,male,45 to 64
+male_55_to_59,B01001_017E,male,45 to 64
+male_60_to_61,B01001_018E,male,45 to 64
+male_62_to_64,B01001_019E,male,45 to 64
+male_65_to_66,B01001_020E,male,65 plus
+male_67_to_69,B01001_021E,male,65 plus
+male_70_to_74,B01001_022E,male,65 plus
+male_75_to_79,B01001_023E,male,65 plus
+male_80_to_84,B01001_024E,male,65 plus
+male_85_plus,B01001_025E,male,65 plus
+female_under_5,B01001_027E,female,less 25
+female_5_to_9,B01001_028E,female,less 25
+female_10_to_14,B01001_029E,female,less 25
+female_15_to_17,B01001_030E,female,less 25
+female_18_to_19,B01001_031E,female,less 25
+female_20,B01001_032E,female,less 25
+female_21,B01001_033E,female,less 25
+female_22_to_24,B01001_034E,female,less 25
+female_25_to_29,B01001_035E,female,25 to 44
+female_30_to_34,B01001_036E,female,25 to 44
+female_35_to_39,B01001_037E,female,25 to 44
+female_40_to_44,B01001_038E,female,25 to 44
+female_45_to_49,B01001_039E,female,45 to 64
+female_50_to_54,B01001_040E,female,45 to 64
+female_55_to_59,B01001_041E,female,45 to 64
+female_60_to_61,B01001_042E,female,45 to 64
+female_62_to_64,B01001_043E,female,45 to 64
+female_65_to_66,B01001_044E,female,65 plus
+female_67_to_69,B01001_045E,female,65 plus
+female_70_to_74,B01001_046E,female,65 plus
+female_75_to_79,B01001_047E,female,65 plus
+female_80_to_84,B01001_048E,female,65 plus
+female_85_plus,B01001_049E,female,65 plus

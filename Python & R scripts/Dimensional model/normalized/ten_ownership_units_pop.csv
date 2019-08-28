@@ -1,0 +1,11 @@
+newvars,oldvars,,units_pop
+units_pop_owner_1,B25033_003E,,1
+units_pop_owner_2_to_4,B25033_004E,, 2 to 4
+units_pop_owner_5_plus,B25033_005E,, 5 plus
+units_pop_owner_mobile,B25033_006E,, mobile
+units_pop_owner_other,B25033_007E,, other
+units_pop_renter_1,B25033_009E,,1
+units_pop_renter_2_to_4,B25033_010E,, 2 to 4
+units_pop_renter_5_plus,B25033_011E,, 5 plus
+units_pop_renter_mobile,B25033_012E,, mobile
+units_pop_renter_other,B25033_013E,, other

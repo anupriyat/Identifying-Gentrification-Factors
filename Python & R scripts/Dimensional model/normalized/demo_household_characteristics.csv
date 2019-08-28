@@ -1,0 +1,14 @@
+newvars,oldvars,householder_type,household_type
+,B11016_003E,2-person household,family household
+,B11016_004E,3-person household,family household
+,B11016_005E,4-person household,family household
+,B11016_006E,5-person household,family household
+,B11016_007E,6-person household,family household
+,B11016_008E,7-or-more person household,family household
+,B11016_010E,1-person household,nonfamily household
+,B11016_011E,2-person household,nonfamily household
+,B11016_012E,3-person household,nonfamily household
+,B11016_013E,4-person household,nonfamily household
+,B11016_014E,5-person household,nonfamily household
+,B11016_015E,6-person household,nonfamily household
+,B11016_016E,7-or-more person household,nonfamily household

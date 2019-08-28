@@ -1,0 +1,15 @@
+newvars,oldvars,ownership_type,hh_size
+tenure_by_hh_size_owner_1,B25009_003E,owner,1
+tenure_by_hh_size_owner_2,B25009_004E,owner,2
+tenure_by_hh_size_owner_3,B25009_005E,owner,3
+tenure_by_hh_size_owner_4,B25009_006E,owner,4
+tenure_by_hh_size_owner_5,B25009_007E,owner,5
+tenure_by_hh_size_owner_6,B25009_008E,owner,6
+tenure_by_hh_size_owner_7_plus,B25009_009E,owner,7 plus
+tenure_by_hh_size_renter_1,B25009_011E,renter,1
+tenure_by_hh_size_renter_2,B25009_012E,renter,2
+tenure_by_hh_size_renter_3,B25009_013E,renter,3
+tenure_by_hh_size_renter_4,B25009_014E,renter,4
+tenure_by_hh_size_renter_5,B25009_015E,renter,5
+tenure_by_hh_size_renter_6,B25009_016E,renter,6
+tenure_by_hh_size_renter_7_plus,B25009_017E,renter,7 plus

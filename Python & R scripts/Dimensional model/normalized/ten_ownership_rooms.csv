@@ -1,0 +1,19 @@
+newvars,oldvars,ownership_type,rooms
+tenure_by_rooms_owner_1,B25020_003E,owner,1
+tenure_by_rooms_owner_2,B25020_004E,owner,2
+tenure_by_rooms_owner_3,B25020_005E,owner,3
+tenure_by_rooms_owner_4,B25020_006E,owner,4
+tenure_by_rooms_owner_5,B25020_007E,owner,5
+tenure_by_rooms_owner_6,B25020_008E,owner,6
+tenure_by_rooms_owner_7,B25020_009E,owner,7
+tenure_by_rooms_owner_8,B25020_010E,owner,8
+tenure_by_rooms_owner_9_plus,B25020_011E,owner,9 plus
+tenure_by_rooms_renter_1,B25020_013E,renter,1
+tenure_by_rooms_renter_2,B25020_014E,renter,2
+tenure_by_rooms_renter_3,B25020_015E,renter,3
+tenure_by_rooms_renter_4,B25020_016E,renter,4
+tenure_by_rooms_renter_5,B25020_017E,renter,5
+tenure_by_rooms_renter_6,B25020_018E,renter,6
+tenure_by_rooms_renter_7,B25020_019E,renter,7
+tenure_by_rooms_renter_8,B25020_020E,renter,8
+tenure_by_rooms_renter_9_plus,B25020_021E,renter,9 plus

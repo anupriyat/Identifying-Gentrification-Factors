@@ -1,0 +1,11 @@
+newvars,oldvars,rent_type,percent_income
+gross_rent_as_income_percent_10_less,B25070_002E,gross,10 less
+gross_rent_as_income_percent_10_to_14,B25070_003E,gross,10 to 14
+gross_rent_as_income_percent_15_to_19,B25070_004E,gross,15 to 19
+gross_rent_as_income_percent_20_to_24,B25070_005E,gross,20 to 24
+gross_rent_as_income_percent_25_to_29,B25070_006E,gross,25 to 29
+gross_rent_as_income_percent_30_to_34,B25070_007E,gross,30 to 34
+gross_rent_as_income_percent_35_to_39,B25070_008E,gross,35 to 39
+gross_rent_as_income_percent_40_to_49,B25070_009E,gross,40 to 49
+gross_rent_as_income_percent_50_plus,B25070_010E,gross,50 plus
+gross_rent_as_income_percent_not_computed,B25070_011E,gross,not computed

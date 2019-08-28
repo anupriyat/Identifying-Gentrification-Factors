@@ -1,0 +1,17 @@
+newvars,oldvars,ownership_type,race
+tenure_pop_owner_black,B25003B_002E,owner,black
+tenure_pop_renter_black,B25003B_003E,renter,black
+tenure_pop_owner_native,B25003C_002E,owner,native
+tenure_pop_renter_native,B25003C_003E,renter,native
+tenure_pop_owner_asian,B25003D_002E,owner,asian
+tenure_pop_renter_asian,B25003D_003E,renter,asian
+tenure_pop_owner_islander,B25003E_002E,owner,islander
+tenure_pop_renter_islander,B25003E_003E,renter,islander
+tenure_pop_owner_other,B25003F_002E,owner,other
+tenure_pop_renter_other,B25003F_003E,renter,other
+tenure_pop_owner_two_races,B25003G_002E,owner,other
+tenure_pop_renter_two_races,B25003G_003E,renter,other
+tenure_pop_owner_white_alone,B25003H_002E,owner,white alone
+tenure_pop_renter_white_alone,B25003H_003E,renter,white alone
+tenure_pop_owner_latino,B25003I_002E,owner,latino
+tenure_pop_renter_latino,B25003I_003E,renter,latino

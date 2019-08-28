@@ -1,0 +1,11 @@
+newvars,oldvars,,time_to_work
+aggregate_time_to_work,B08135_001E,,
+aggregate_time_to_work_10_minutes_less,B08135_002E,,less 10
+aggregate_time_to_work_10_to_14_minutes,B08135_003E,,10 to 14 
+aggregate_time_to_work_15_to_19_minutes,B08135_004E,,15 to 19 
+aggregate_time_to_work_20_to_24_minutes,B08135_005E,,20 to 24 
+aggregate_time_to_work_25_to_29_minutes,B08135_006E,,25 to 29 
+aggregate_time_to_work_30_to_34_minutes,B08135_007E,,30 to 34 
+aggregate_time_to_work_35_to_44_minutes,B08135_008E,,35 to 44 
+aggregate_time_to_work_45_to_59_minutes,B08135_009E,,45 to 59 
+aggregate_time_to_work_60_mintues_plus,B08135_010E,,60 plus

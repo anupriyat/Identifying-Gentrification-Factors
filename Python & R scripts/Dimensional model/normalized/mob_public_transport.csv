@@ -1,0 +1,6 @@
+newvar,oldvar,means_of_transportation,public_type
+means_of_transportation_bus,B08301_011E,public,bus
+means_of_transportation_public_trolley,B08301_012E,public,trolley
+means_of_transportation_public_subway,B08301_013E,public,subway
+means_of_transportation_public_railroad,B08301_014E,public,railroad
+means_of_transportation_public_ferry,B08301_015E,public,ferry

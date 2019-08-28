@@ -1,0 +1,18 @@
+newvars,oldvars,income
+income_less_10k,B19001_002E,less 10k
+income_10k_to_15k,B19001_003E,10k to 15k
+income_15k_to_20k,B19001_004E,15k to 20k
+income_20k_to_25k,B19001_005E,20k to 25k
+income_25k_to_30k,B19001_006E,25k to 30k
+income_30k_to_35k,B19001_007E,30k to 35k
+income_35k_to_40k,B19001_008E,35k to 40k
+income_40k_to_45k,B19001_009E,40k to 45k
+income_45k_to_50k,B19001_010E,45k to 50k
+income_50k_to_60k,B19001_011E,50k to 60k
+income_60k_to_75k,B19001_012E,60k to 75k
+income_75k_to_100k,B19001_013E,75k to 100
+income_100k_to_125k,B19001_014E,100k to 12
+income_125k_to_150k,B19001_015E,125k to 15
+income_150k_to_200k,B19001_016E,150k to 20
+income_200k_plus,B19001_017E,200k plus
+total_no_income,B19051_003E,no income

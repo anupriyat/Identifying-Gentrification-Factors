@@ -1,0 +1,66 @@
+newvars,oldvars,rent_type,rent_bracket
+contract_rent_100_less,B25056_003E,contract,300 less
+contract_rent_100_to_149,B25056_004E,contract,300 less
+contract_rent_150_to_199,B25056_005E,contract,300 less
+contract_rent_200_to_249,B25056_006E,contract,300 less
+contract_rent_250_to_299,B25056_007E,contract,300 less
+contract_rent_300_to_349,B25056_008E,contract,300 to 499
+contract_rent_350_to_399,B25056_009E,contract,300 to 499
+contract_rent_400_to_449,B25056_010E,contract,300 to 499
+contract_rent_450_to_499,B25056_011E,contract,300 to 499
+contract_rent_500_to_549,B25056_012E,contract,500 to 749
+contract_rent_550_to_599,B25056_013E,contract,500 to 749
+contract_rent_600_to_649,B25056_014E,contract,500 to 749
+contract_rent_650_to_699,B25056_015E,contract,500 to 749
+contract_rent_700_to_749,B25056_016E,contract,500 to 749
+contract_rent_750_to_799,B25056_017E,contract,750 to 999
+contract_rent_800_to_899,B25056_018E,contract,750 to 999
+contract_rent_900_to_999,B25056_019E,contract,750 to 999
+contract_rent_1000_to_1249,B25056_020E,contract,1000 to 1499
+contract_rent_1250_to_1499,B25056_021E,contract,1000 to 1499
+contract_rent_1500_to_1999,B25056_022E,contract,1500 plus
+contract_rent_2000_to_2499,B25056_023E,contract,1500 plus
+contract_rent_2500_to_2999,B25056_024E,contract,1500 plus
+asked_rent_100_less,B25061_002E,asked,300 less
+asked_rent_100_to_149,B25061_003E,asked,300 less
+asked_rent_150_to_199,B25061_004E,asked,300 less
+asked_rent_200_to_249,B25061_005E,asked,300 less
+asked_rent_250_to_299,B25061_006E,asked,300 less
+asked_rent_300_to_349,B25061_007E,asked,300 to 499
+asked_rent_350_to_399,B25061_008E,asked,300 to 499
+asked_rent_400_to_449,B25061_009E,asked,300 to 499
+asked_rent_450_to_499,B25061_010E,asked,300 to 499
+asked_rent_500_to_549,B25061_011E,asked,500 to 749
+asked_rent_550_to_599,B25061_012E,asked,500 to 749
+asked_rent_600_to_649,B25061_013E,asked,500 to 749
+asked_rent_650_to_699,B25061_014E,asked,500 to 749
+asked_rent_700_to_749,B25061_015E,asked,500 to 749
+asked_rent_750_to_799,B25061_016E,asked,750 to 999
+asked_rent_800_to_899,B25061_017E,asked,750 to 999
+asked_rent_900_to_999,B25061_018E,asked,750 to 999
+asked_rent_1000_to_1249,B25061_019E,asked,1000 to 1499
+asked_rent_1250_to_1499,B25061_020E,asked,1000 to 1499
+asked_rent_1500_to_1999,B25061_021E,asked,1500 plus
+asked_rent_2000_to_2499,B25061_022E,asked,1500 plus
+gross_rent_100_less,B25063_003E,gross,300 less
+gross_rent_100_to_149,B25063_004E,gross,300 less
+gross_rent_150_to_199,B25063_005E,gross,300 less
+gross_rent_200_to_249,B25063_006E,gross,300 less
+gross_rent_250_to_299,B25063_007E,gross,300 less
+gross_rent_300_to_349,B25063_008E,gross,300 to 499
+gross_rent_350_to_399,B25063_009E,gross,300 to 499
+gross_rent_400_to_449,B25063_010E,gross,300 to 499
+gross_rent_450_to_499,B25063_011E,gross,300 to 499
+gross_rent_500_to_549,B25063_012E,gross,500 to 749
+gross_rent_550_to_599,B25063_013E,gross,500 to 749
+gross_rent_600_to_649,B25063_014E,gross,500 to 749
+gross_rent_650_to_699,B25063_015E,gross,500 to 749
+gross_rent_700_to_749,B25063_016E,gross,500 to 749
+gross_rent_750_to_799,B25063_017E,gross,750 to 999
+gross_rent_800_to_899,B25063_018E,gross,750 to 999
+gross_rent_900_to_999,B25063_019E,gross,750 to 999
+gross_rent_1000_to_1249,B25063_020E,gross,1000 to 1499
+gross_rent_1250_to_1499,B25063_021E,gross,1000 to 1499
+gross_rent_1500_to_1999,B25063_022E,gross,1500 plus
+gross_rent_2000_to_2499,B25063_023E,gross,1500 plus
+gross_rent_2500_to_2999,B25063_024E,gross,1500 plus

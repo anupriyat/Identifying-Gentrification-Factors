@@ -1,0 +1,21 @@
+newvars,oldvars,ownership_type,units_structure
+tenure_by_units_hh_owner_1_detached,B25032_003E,owner,1
+tenure_by_units_hh_owner_1_attached,B25032_004E,owner,1
+tenure_by_units_hh_owner_2,B25032_005E,owner,2
+tenure_by_units_hh_owner_3_to_4,B25032_006E,owner,3 to 4
+tenure_by_units_hh_owner_5_to_9,B25032_007E,owner,5 to 9
+tenure_by_units_hh_owner_10_to_19,B25032_008E,owner,10 to 19
+tenure_by_units_hh_owner_20_to_49,B25032_009E,owner,20 to 49
+tenure_by_units_hh_owner_50_plus,B25032_010E,owner,50 plus
+tenure_by_units_hh_owner_mobile,B25032_011E,owner,mobile
+tenure_by_units_hh_owner_other,B25032_012E,owner,other
+tenure_by_units_hh_renter_1_detached,B25032_014E,renter,1
+tenure_by_units_hh_renter_1_attached,B25032_015E,renter,1
+tenure_by_units_hh_renter_2,B25032_016E,renter,2
+tenure_by_units_hh_renter_3_to_4,B25032_017E,renter,3 to 4
+tenure_by_units_hh_renter_5_to_9,B25032_018E,renter,5 to 9
+tenure_by_units_hh_renter_10_to_19,B25032_019E,renter,10 to 19
+tenure_by_units_hh_renter_20_to_49,B25032_020E,renter,20 to 49
+tenure_by_units_hh_renter_50_plus,B25032_021E,renter,50 plus
+tenure_by_units_hh_renter_mobile,B25032_022E,renter,mobile
+tenure_by_units_hh_renter_other,B25032_023E,renter,other

@@ -1,0 +1,8 @@
+newvars,oldvars,hu_status,vacant_status
+status_hu_for_rent,B25004_002E,vacant,for rent
+status_hu_rented_not_occupied,B25004_003E,vacant,rented not occupied
+status_hu_for_sale_only,B25004_004E,vacant,for sale
+status_hu_sold_not_occupied,B25004_005E,vacant,sold not occupied
+status_hu_occasional_use,B25004_006E,vacant,occasional use
+status_hu_for_migrant_workers,B25004_007E,vacant,migrant workers
+status_hu_other_vacant,B25004_008E,vacant,other vacant

@@ -1,0 +1,11 @@
+newvars,oldvars,units_structure
+units_hu_1_detached,B25024_002E,1
+units_hu_1_attached,B25024_003E,1
+units_hu_2,B25024_004E,2
+units_hu_3_to_4,B25024_005E,3 to 4
+units_hu_5_to_9,B25024_006E,5 to 9
+units_hu_10_to_19,B25024_007E,10 to 19
+units_hu_20_to_49,B25024_008E,20 to 49
+units_hu_50_plus,B25024_009E,
+units_hu_mobile,B25024_010E,mobile
+units_hu_other,B25024_011E,other

@@ -1,0 +1,10 @@
+newvars,oldvars,means_of_transportation
+means_of_transportation_car_alone,B08301_003E,car alone
+means_of_transportation_car_pool,B08301_004E,car pool
+means_of_transportation_public,B08301_010E,public
+means_of_transportation_taxi,B08301_016E,taxi
+means_of_transportation_motorcycle,B08301_017E,motorcycle
+means_of_transportation_bicycle,B08301_018E,bicycle
+means_of_transportation_walk,B08301_019E,walk
+means_of_transportation_other,B08301_020E,other
+means_of_transportation_work_from_home,B08301_021E,home
