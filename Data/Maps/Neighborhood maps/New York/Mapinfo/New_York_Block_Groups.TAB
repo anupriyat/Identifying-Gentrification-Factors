@@ -1,0 +1,24 @@
+!table
+!version 700
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 12
+    Statefp Char (2) ;
+    Countyfp Char (3) ;
+    Tractce Char (6) ;
+    Blkgrpce Char (1) ;
+    Geoid Char (12) ;
+    Namelsad Char (13) ;
+    Mtfcc Char (5) ;
+    Funcstat Char (1) ;
+    Aland Decimal (14, 0) ;
+    Awater Decimal (14, 0) ;
+    Intptlat Char (11) ;
+    Intptlon Char (12) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "2a10a82a-df09-4d7f-bcf1-659d1d10badc"
+end_metadata

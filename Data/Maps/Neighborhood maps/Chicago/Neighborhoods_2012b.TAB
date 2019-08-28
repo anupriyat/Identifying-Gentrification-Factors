@@ -1,0 +1,34 @@
+!table
+!version 700
+!charset WindowsLatin1
+
+Definition Table
+  Type SHAPEFILE Charset "WindowsLatin1"
+  Fields 4
+    Pri_neigh Char (50) ;
+    Sec_neigh Char (50) ;
+    Shape_area Float ;
+    Shape_len Float ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\Shapefile" = ""
+"\Shapefile\PersistentCache" = "FALSE"
+"\Shapefile\CacheType" = "NATIVE"
+"\Spatial Reference" = ""
+"\Spatial Reference\Geographic" = ""
+"\Spatial Reference\Geographic\Projection" = ""
+"\Spatial Reference\Geographic\Projection\Clause" = "CoordSys Earth Projection 8, 74, ""survey ft"", -88.3333333333, 36.6666666667, 0.999975, 984250, 0 Bounds (-26079139.8529, -46132236.0153) (28047639.8529, 19495688.3736)"
+"\DefaultStyles" = ""
+"\DefaultStyles\Pen" = ""
+"\DefaultStyles\Pen\LineWidth" = "1"
+"\DefaultStyles\Pen\LineStyle" = "0"
+"\DefaultStyles\Pen\Color" = "0"
+"\DefaultStyles\Pen\Pattern" = "2"
+"\DefaultStyles\Brush" = ""
+"\DefaultStyles\Brush\Pattern" = "2"
+"\DefaultStyles\Brush\Forecolor" = "16777215"
+"\DefaultStyles\Brush\Backcolor" = "16777215"
+"\DefaultStyles\Brush\Transparent" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "c19eaa29-f585-4270-afec-0cb4c20035e2"
+end_metadata

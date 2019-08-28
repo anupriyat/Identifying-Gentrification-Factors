@@ -1,0 +1,16 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 4
+    Geoid Char (12) ;
+    name Char (254) ;
+    overlap_sqkm Float ;
+    _COL4 Float ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "8c074ca4-dcb3-4270-80ae-f9e0435cc33c"
+end_metadata

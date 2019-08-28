@@ -1,0 +1,17 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 10
+    slug Char (254) ;
+    set Char (254) ;
+    kind Char (254) ;
+    external_i Char (254) ;
+    name Char (254) ;
+    display_na Char (254) ;
+    sqmi Char (254) ;
+    type Char (254) ;
+    name_1 Char (254) ;
+    slug_1 Char (254) ;
