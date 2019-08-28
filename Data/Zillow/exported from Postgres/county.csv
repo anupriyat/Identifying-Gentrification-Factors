@@ -1,0 +1,1610 @@
+MunicipalCodeFIPS,Metro,RegionName,StateCodeFIPS,c_id
+1,,Accomack,51,1
+1,,Adams,55,2
+1,,Addison,50,3
+1,,Aitkin,27,4
+1,,Alcona,26,5
+1,,Apache,4,6
+1,,Baker,41,7
+1,Albany,Albany,36,8
+1,Albuquerque,Bernalillo,35,9
+1,Atlantic City,Atlantic,34,10
+1,Boise City,Ada,16,11
+1,Burlington,Alamance,37,12
+1,Cape Cod,Barnstable,25,13
+1,Cumberland,Allegany,24,14
+1,Denver,Adams,8,15
+1,Gainesville,Alachua,12,16
+1,Gettysburg,Adams,42,17
+1,Hilo,Hawaii,15,18
+1,Knoxville,Anderson,47,19
+1,Laconia,Belknap,33,20
+1,Lafayette,Acadia,22,21
+1,Laramie,Albany,56,22
+1,Lewiston,Androscoggin,23,23
+1,Montgomery,Autauga,1,24
+1,Othello,Adams,53,25
+1,Providence,Bristol,44,26
+1,Quincy,Adams,17,27
+1,San Francisco,Alameda,6,28
+1,Stamford,Fairfield,9,29
+1,Washington,District of Columbia,11,30
+3,,Alamosa,8,31
+3,,Allegany,36,32
+3,,Aroostook,23,33
+3,,Carroll,33,34
+3,Augusta,Aiken,45,35
+3,Baltimore,Anne Arundel,24,36
+3,Bennington,Bennington,50,37
+3,Charlottesville,Albemarle,51,38
+3,Corvallis,Benton,41,39
+3,Daphne,Baldwin,1,40
+3,Fort Wayne,Allen,18,41
+3,Hagerstown,Berkeley,54,42
+3,Hartford,Hartford,9,43
+3,Hickory,Alexander,37,44
+3,Jacksonville,Baker,12,45
+3,Las Vegas,Clark,32,46
+3,Lima,Allen,39,47
+3,Minneapolis-St Paul,Anoka,27,48
+3,New York,Bergen,34,49
+3,Ogden,Box Elder,49,50
+3,Philadelphia,New Castle,10,51
+3,Pittsburgh,Allegheny,42,52
+3,Pittsfield,Berkshire,25,53
+3,Providence,Kent,44,54
+3,Sierra Vista,Cochise,4,55
+3,Urban Honolulu,Honolulu,15,56
+5,,Alleghany,51,57
+5,,Amador,6,58
+5,,Barron,55,59
+5,,Becker,27,60
+5,,Benton,47,61
+5,,Caledonia,50,62
+5,Baltimore,Baltimore,24,63
+5,Baton Rouge,Ascension,22,64
+5,Columbus,Bartholomew,18,65
+5,Denver,Arapahoe,8,66
+5,Flagstaff,Coconino,4,67
+5,Frankfort,Anderson,21,68
+5,Gardnerville Ranchos,Douglas,32,69
+5,Holland,Allegan,26,70
+5,Keene,Cheshire,33,71
+5,Kennewick,Benton,53,72
+5,Logan,Cache,49,73
+5,Mountain Home,Baxter,5,74
+5,New York,Bronx,36,75
+5,Panama City,Bay,12,76
+5,Philadelphia,Burlington,34,77
+5,Pittsburgh,Armstrong,42,78
+5,Pocatello,Bannock,16,79
+5,Portland,Clackamas,41,80
+5,Portland,Cumberland,23,81
+5,Providence,Bristol,25,82
+5,Providence,Newport,44,83
+5,Roswell,Chaves,35,84
+5,Salisbury,Sussex,10,85
+5,St. Louis,Bond,17,86
+5,Torrington,Litchfield,9,87
+7,,Anson,37,88
+7,,Archuleta,8,89
+7,,Bledsoe,47,90
+7,,Bradford,12,91
+7,,Franklin,23,92
+7,Alpena,Alpena,26,93
+7,Ashtabula,Ashtabula,39,94
+7,Astoria,Clatsop,41,95
+7,Bemidji,Beltrami,27,96
+7,Berlin,Coos,33,97
+7,Binghamton,Broome,36,98
+7,Burlington,Chittenden,50,99
+7,Chico,Butte,6,100
+7,Elko,Elko,32,101
+7,Fayetteville,Benton,5,102
+7,Greenville,Anderson,45,103
+7,Hartford,Middlesex,9,104
+7,Kapaa,Kauai,15,105
+7,Payson,Gila,4,106
+7,Philadelphia,Camden,34,107
+7,Pittsburgh,Beaver,42,108
+7,Price,Carbon,49,109
+7,Providence,Providence,44,110
+7,Rockford,Boone,17,111
+7,Vineyard Haven,Dukes,25,112
+7,Wenatchee,Chelan,53,113
+9,,Antrim,26,114
+9,,Ashe,37,115
+9,,Barry,29,116
+9,,Bedford,42,117
+9,,Calaveras,6,118
+9,,Hancock,23,119
+9,Athens,Athens,39,120
+9,Birmingham,Blount,1,121
+9,Boston,Essex,25,122
+9,Claremont,Grafton,33,123
+9,Elk City,Beckham,40,124
+9,Glasgow,Barren,21,125
+9,Green Bay,Brown,55,126
+9,Harrison,Boone,5,127
+9,Kahului,Maui,15,128
+9,Knoxville,Blount,47,129
+9,Lynchburg,Amherst,51,130
+9,Melbourne,Brevard,12,131
+9,Milledgeville,Baldwin,13,132
+9,New Haven,New Haven,9,133
+9,Ocean City,Cape May,34,134
+9,Olean,Cattaraugus,36,135
+9,Port Angeles,Clallam,53,136
+9,Portland,Columbia,41,137
+9,Providence,Washington,44,138
+9,Safford,Graham,4,139
+9,St. Cloud,Benton,27,140
+9,Washington,Calvert,24,141
+11,,Banks,13,142
+11,,Bowman,38,143
+11,,Caroline,24,144
+11,,Colusa,6,145
+11,Auburn,Cayuga,36,146
+11,Augusta,Kennebec,23,147
+11,Blackfoot,Bingham,16,148
+11,Burlington,Franklin,50,149
+11,Cedar Rapids,Benton,19,150
+11,Cleveland,Bradley,47,151
+11,Coos Bay,Coos,41,152
+11,De Ridder,Beauregard,22,153
+11,Greenfield Town,Franklin,25,154
+11,Huntington,Cabell,54,155
+11,Indianapolis,Boone,18,156
+11,Manchester,Hillsborough,33,157
+11,Miami-Fort Lauderdale,Broward,12,158
+11,New London,New London,9,159
+11,Ogden,Davis,49,160
+11,Ottawa,Bureau,17,161
+11,Portland,Clark,53,162
+11,Reading,Berks,42,163
+11,Vineland,Cumberland,34,164
+11,Wapakoneta,Auglaize,39,165
+12,,La Paz,4,166
+13,,Burnett,55,167
+13,,Knox,23,168
+13,Altoona,Blair,42,169
+13,Atlanta,Barrow,13,170
+13,Baltimore,Carroll,24,171
+13,Boulder,Boulder,8,172
+13,Concord,Merrimack,33,173
+13,Durant,Bryan,40,174
+13,Great Falls,Cascade,30,175
+13,Hailey,Blaine,16,176
+13,Hartford,Tolland,9,177
+13,Hilton Head Island,Beaufort,45,178
+13,Indianapolis,Brown,18,179
+13,Jamestown,Chautauqua,36,180
+13,Knoxville,Campbell,47,181
+13,Las Cruces,Dona Ana,35,182
+13,Mankato,Blue Earth,27,183
+13,New York,Essex,34,184
+13,Phoenix,Maricopa,4,185
+13,Prineville,Crook,41,186
+13,Riverton,Fremont,56,187
+13,San Francisco,Contra Costa,6,188
+13,Springfield,Hampden,25,189
+13,Washington,Arlington,51,190
+13,Waterloo,Black Hawk,19,191
+13,Wheeling,Belmont,39,192
+13,Winnemucca,Humboldt,32,193
+14,Denver,Broomfield,8,194
+15,,Caddo,40,195
+15,,Carroll,5,196
+15,,Carroll,17,197
+15,,Chaffee,8,198
+15,,Lamoille,50,199
+15,,Lincoln,23,200
+15,Appleton,Calumet,55,201
+15,Atlanta,Bartow,13,202
+15,Bismarck,Burleigh,38,203
+15,Boise City,Boise,16,204
+15,Boone,Boone,19,205
+15,Boston,Rockingham,33,206
+15,Brookings,Curry,41,207
+15,Charleston,Berkeley,45,208
+15,Cincinnati,Boone,21,209
+15,Cincinnati,Brown,39,210
+15,Elmira,Chemung,36,211
+15,Grand Rapids,Barry,26,212
+15,Houston,Austin,48,213
+15,Lafayette-West Lafayette,Carroll,18,214
+15,Lake Havasu City,Mohave,4,215
+15,Nashville,Cannon,47,216
+15,Philadelphia,Cecil,24,217
+15,Philadelphia,Gloucester,34,218
+15,Punta Gorda,Charlotte,12,219
+15,Shreveport,Bossier,22,220
+15,Springfield,Hampshire,25,221
+15,Staunton,Augusta,51,222
+15,Wichita,Butler,20,223
+15,Worcester,Windham,9,224
+17,,Carroll,47,225
+17,,Chenango,36,226
+17,Bay City,Bay,26,227
+17,Bend,Deschutes,41,228
+17,Boston,Middlesex,25,229
+17,Boston,Strafford,33,230
+17,Cincinnati,Butler,39,231
+17,Duluth,Carlton,27,232
+17,Fargo,Cass,38,233
+17,Homosassa Springs,Citrus,12,234
+17,Lexington,Bourbon,21,235
+17,New York,Hudson,34,236
+17,Oklahoma City,Canadian,40,237
+17,Philadelphia,Bucks,42,238
+17,Sacramento,El Dorado,6,239
+17,Sandpoint,Bonner,16,240
+17,Show Low,Navajo,4,241
+17,Shreveport,Caddo,22,242
+17,Valley,Chambers,1,243
+17,Washington,Charles,24,244
+17,Wenatchee,Douglas,53,245
+19,,Buchanan,19,246
+19,,Cavalier,38,247
+19,,Cherokee,1,248
+19,,Nantucket,25,249
+19,Ardmore,Carter,40,250
+19,Bangor,Penobscot,23,251
+19,Cambridge,Dorchester,24,252
+19,Canton,Carroll,39,253
+19,Champaign-Urbana,Champaign,17,254
+19,Charleston,Charleston,45,255
+19,Claremont,Sullivan,33,256
+19,Columbia,Boone,29,257
+19,Denver,Clear Creek,8,258
+19,Fernley,Lyon,32,259
+19,Fresno,Fresno,6,260
+19,Huntington,Boyd,21,261
+19,Idaho Falls,Bonneville,16,262
+19,Jacksonville,Clay,12,263
+19,Johnson City,Carter,47,264
+19,Kearney,Buffalo,31,265
+19,Lake Charles,Calcasieu,22,266
+19,Louisville/Jefferson County,Clark,18,267
+19,Lynchburg,Bedford,51,268
+19,Minneapolis-St Paul,Carver,27,269
+19,Myrtle Beach,Brunswick,37,270
+19,New York,Hunterdon,34,271
+19,Pittsburgh,Butler,42,272
+19,Plattsburgh,Clinton,36,273
+19,Roseburg,Douglas,41,274
+19,San Antonio,Bandera,48,275
+19,Traverse City,Benzie,26,276
+19,Tucson,Pima,4,277
+20,Anchorage,Anchorage,2,278
+21,Asheville,Buncombe,37,279
+21,Austin,Bastrop,48,280
+21,Birmingham,Chilton,1,281
+21,Boston,Norfolk,25,282
+21,Cedar City,Iron,49,283
+21,Cheyenne,Laramie,56,284
+21,Danville,Boyle,21,285
+21,Hudson,Columbia,36,286
+21,Kennewick,Franklin,53,287
+21,Macon,Bibb,13,288
+21,Madison,Columbia,55,289
+21,Naples,Collier,12,290
+21,Nashville,Cheatham,47,291
+21,Niles,Berrien,26,292
+21,Phoenix,Pinal,4,293
+21,Rutland,Rutland,50,294
+21,St. Joseph,Buchanan,29,295
+21,Storm Lake,Buena Vista,19,296
+21,Tahlequah,Cherokee,40,297
+21,Taylorville,Christian,17,298
+21,Trenton,Mercer,34,299
+21,Urbana,Champaign,39,300
+21,Washington,Frederick,24,301
+23,,Chippewa,27,302
+23,,Clark,17,303
+23,,Cleburne,5,304
+23,,Garrett,24,305
+23,Barre,Washington,50,306
+23,Boston,Plymouth,25,307
+23,Coldwater,Branch,26,308
+23,Cortland,Cortland,36,309
+23,Eureka,Humboldt,6,310
+23,Jackson,Chester,47,311
+23,Lake City,Columbia,12,312
+23,New York,Middlesex,34,313
+23,Nogales,Santa Cruz,4,314
+23,Pahrump,Nye,32,315
+23,Poplar Bluff,Butler,29,316
+23,Portland,Sagadahoc,23,317
+23,Roanoke,Botetourt,51,318
+23,Springfield,Clark,39,319
+25,,Delaware,36,320
+25,,Somerset,23,321
+25,,Windham,50,322
+25,Allentown,Carbon,42,323
+25,Baltimore,Harford,24,324
+25,Battle Creek,Calhoun,26,325
+25,Boston,Suffolk,25,326
+25,Casper,Natrona,56,327
+25,Charlotte,Cabarrus,37,328
+25,Cincinnati,Clermont,39,329
+25,El Centro,Imperial,6,330
+25,Madison,Dane,55,331
+25,Minneapolis-St Paul,Chisago,27,332
+25,Moses Lake,Grant,53,333
+25,New York,Monmouth,34,334
+25,Omaha,Cass,31,335
+25,Prescott,Yavapai,4,336
+27,,Clarendon,45,337
+27,,Inyo,6,338
+27,,Niobrara,56,339
+27,,Waldo,23,340
+27,Aberdeen,Grays Harbor,53,341
+27,Arcadia,De Soto,12,342
+27,Baltimore,Howard,24,343
+27,Beaver Dam,Dodge,55,344
+27,Boise City,Canyon,16,345
+27,Claremont,Windsor,50,346
+27,Fargo,Clay,27,347
+27,Hickory,Caldwell,37,348
+27,Hood River,Hood River,41,349
+27,Jefferson City,Callaway,29,350
+27,Killeen,Bell,48,351
+27,New York,Dutchess,36,352
+27,New York,Morris,34,353
+27,Oklahoma City,Cleveland,40,354
+27,South Bend,Cass,26,355
+27,State College,Centre,42,356
+27,Valdosta,Brooks,13,357
+27,Washington,Daviess,18,358
+27,Worcester,Worcester,25,359
+27,Yuma,Yuma,4,360
+28,Los Alamos,Los Alamos,35,361
+29,,Camden,29,362
+29,,Charlevoix,26,363
+29,,Delta,8,364
+29,,Dixie,12,365
+29,,Kent,24,366
+29,Bakersfield,Kern,6,367
+29,Buffalo,Erie,36,368
+29,Charleston,Coles,17,369
+29,Cincinnati,Dearborn,18,370
+29,Kalispell,Flathead,30,371
+29,Medford,Jackson,41,372
+29,Newport,Cocke,47,373
+29,New York,Ocean,34,374
+29,Oak Harbor,Island,53,375
+29,Philadelphia,Chester,42,376
+29,Reno,Storey,32,377
+29,Salem,Columbiana,39,378
+29,San Antonio,Bexar,48,379
+29,Savannah,Bryan,13,380
+29,Weirton,Hancock,54,381
+31,,Cheboygan,26,382
+31,,Essex,36,383
+31,,Jefferson,41,384
+31,,Jefferson,53,385
+31,Bozeman,Gallatin,30,386
+31,Burley,Cassia,16,387
+31,Cape Girardeau,Cape Girardeau,29,388
+31,Chicago,Cook,17,389
+31,Coshocton,Coshocton,39,390
+31,Denver,Denver,8,391
+31,Duluth,Douglas,55,392
+31,Enterprise,Coffee,1,393
+31,Florence,Darlington,45,394
+31,Jacksonville,Duval,12,395
+31,Jonesboro,Craighead,5,396
+31,Lawton,Comanche,40,397
+31,Lynchburg,Campbell,51,398
+31,Morehead City,Carteret,37,399
+31,New York,Passaic,34,400
+31,Portland,York,23,401
+31,Reno,Washoe,32,402
+31,Statesboro,Bulloch,13,403
+31,Tullahoma,Coffee,47,404
+31,Washington,Montgomery,24,405
+33,,Caswell,37,406
+33,Auburn,De Kalb,18,407
+33,Augusta,Burke,13,408
+33,Baton Rouge,East Baton Rouge,22,409
+33,Bucyrus,Crawford,39,410
+33,Clarksburg,Harrison,54,411
+33,DuBois,Clearfield,42,412
+33,Florence,Colbert,1,413
+33,Fort Smith,Crawford,5,414
+33,Grants Pass,Josephine,41,415
+33,Jackson,Crockett,47,416
+33,Malone,Franklin,36,417
+33,Mason City,Cerro Gordo,19,418
+33,Memphis,DeSoto,28,419
+33,Menomonie,Dunn,55,420
+33,Pensacola,Escambia,12,421
+33,Philadelphia,Salem,34,422
+33,Richmond,Caroline,51,423
+33,Seattle,King,53,424
+33,Washington,Prince Georges,24,425
+35,,Craig,40,426
+35,Arkansas City-Winfield,Cowley,20,427
+35,Atlanta,Butts,13,428
+35,Baltimore,Queen Annes,24,429
+35,Brainerd,Crow Wing,27,430
+35,Bremerton,Kitsap,53,431
+35,Charleston,Dorchester,45,432
+35,Cleveland,Cuyahoga,39,433
+35,Crossville,Cumberland,47,434
+35,Daytona Beach,Flagler,12,435
+35,Denver,Douglas,8,436
+35,Eau Claire,Eau Claire,55,437
+35,Gloversville,Fulton,36,438
+35,Grand Forks,Grand Forks,38,439
+35,Hattiesburg,Forrest,28,440
+35,Hickory,Catawba,37,441
+35,Klamath Falls,Klamath,41,442
+35,Lock Haven,Clinton,42,443
+35,Memphis,Crittenden,5,444
+35,Muncie,Delaware,18,445
+35,Murray,Calloway,21,446
+35,New York,Somerset,34,447
+35,Salt Lake City,Salt Lake,49,448
+37,,Franklin,12,449
+37,Augusta,Edgefield,45,450
+37,Batavia,Genesee,36,451
+37,Bloomsburg,Columbia,42,452
+37,California-Lexington Park,Saint Marys,24,453
+37,Chicago,DeKalb,17,454
+37,Cincinnati,Campbell,21,455
+37,Durham,Chatham,37,456
+37,Edwards,Eagle,8,457
+37,Ellensburg,Kittitas,53,458
+37,Jasper,Dubois,18,459
+37,Kansas City,Cass,29,460
+37,Lansing,Clinton,26,461
+37,Los Angeles-Long Beach-Anaheim,Los Angeles,6,462
+37,Minneapolis-St Paul,Dakota,27,463
+37,Nashville,Davidson,47,464
+37,New York,Sussex,34,465
+37,Pittsburg,Crawford,20,466
+37,Texarkana,Bowie,48,467
+37,Tulsa,Creek,40,468
+37,Washington,Jefferson,54,469
+39,,Cherokee,37,470
+39,,Crawford,26,471
+39,,Decatur,47,472
+39,,Greene,36,473
+39,Bloomington,Dewitt,17,474
+39,Charleston,Kanawha,54,475
+39,Columbia,Fairfield,45,476
+39,Defiance,Defiance,39,477
+39,Denver,Elbert,8,478
+39,Elkhart,Elkhart,18,479
+39,Eugene,Lane,41,480
+39,Fond du Lac,Fond du Lac,55,481
+39,Houston,Brazoria,48,482
+39,Madera,Madera,6,483
+39,Meadville,Crawford,42,484
+39,Mountain Home,Elmore,16,485
+39,New York,Union,34,486
+39,Rochester,Dodge,27,487
+39,Salisbury,Somerset,24,488
+39,St. Marys,Camden,13,489
+39,Tallahassee,Gadsden,12,490
+39,Weatherford,Custer,40,491
+41,,Dekalb,47,492
+41,,Delaware,40,493
+41,,Dickinson,20,494
+41,,Sevier,49,495
+41,Alexandria,Douglas,27,496
+41,Allentown,Warren,34,497
+41,Centralia,Lewis,53,498
+41,College Station,Brazos,48,499
+41,Colorado Springs,El Paso,8,500
+41,Connersville,Fayette,18,501
+41,Easton,Talbot,24,502
+41,Escanaba,Delta,26,503
+41,Evanston,Uinta,56,504
+41,Florence,Florence,45,505
+41,Gainesville,Gilchrist,12,506
+41,Harrisburg,Cumberland,42,507
+41,Logan,Franklin,16,508
+41,Newport,Lincoln,41,509
+41,Richmond,Chesterfield,51,510
+41,San Francisco,Marin,6,511
+41,Spencer,Clay,19,512
+43,,Carter,21,513
+43,,Clay,37,514
+43,,Clayton,19,515
+43,,Glades,12,516
+43,,Mariposa,6,517
+43,Albany,Linn,41,518
+43,Albuquerque,Sandoval,35,519
+43,Chicago,Du Page,17,520
+43,Cullman,Cullman,1,521
+43,Georgetown,Georgetown,45,522
+43,Hagerstown,Washington,24,523
+43,Harrisburg,Dauphin,42,524
+43,Louisville/Jefferson County,Floyd,18,525
+43,Nashville,Dickson,47,526
+43,Rexburg,Fremont,16,527
+43,Sandusky,Erie,39,528
+43,Sioux City,Dakota,31,529
+43,Springfield,Christian,29,530
+43,Summit Park,Summit,49,531
+43,Utica,Herkimer,36,532
+43,Washington,Clarke,51,533
+45,Atlanta,Carroll,13,534
+45,Boise City,Gem,16,535
+45,Clinton,Clinton,19,536
+45,Columbus,Fairfield,39,537
+45,Dyersburg,Dyer,47,538
+45,Farmington,San Juan,35,539
+45,Glenwood Springs,Garfield,8,540
+45,Greenville,Greenville,45,541
+45,Lansing,Eaton,26,542
+45,Lawrence,Douglas,20,543
+45,Little Rock,Faulkner,5,544
+45,Madison,Green,55,545
+45,Ontario,Malheur,41,546
+45,Panama City,Gulf,12,547
+45,Philadelphia,Delaware,42,548
+45,Rochester,Fillmore,27,549
+45,Salisbury,Wicomico,24,550
+45,Salt Lake City,Tooele,49,551
+45,Shelby,Cleveland,37,552
+45,Shelton,Mason,53,553
+45,Ukiah,Mendocino,6,554
+45,Watertown,Jefferson,36,555
+47,,Columbus,37,556
+47,,Elk,42,557
+47,,Emmet,26,558
+47,,Franklin,5,559
+47,,Green Lake,55,560
+47,,Lake,30,561
+47,,Okanogan,53,562
+47,Albert Lea,Freeborn,27,563
+47,Baton Rouge,Iberville,22,564
+47,Chattanooga,Catoosa,13,565
+47,Clarksville,Christian,21,566
+47,Denver,Gilpin,8,567
+47,Enid,Garfield,40,568
+47,Greenwood,Greenwood,45,569
+47,Gulfport,Harrison,28,570
+47,Kansas City,Clay,29,571
+47,Lexington,Dawson,31,572
+47,Memphis,Fayette,47,573
+47,Merced,Merced,6,574
+47,New York,Kings,36,575
+47,Salem,Marion,41,576
+47,Salisbury,Worcester,24,577
+47,Washington,Culpeper,51,578
+47,Washington Court House,Fayette,39,579
+49,,De Kalb,1,580
+49,,Fentress,47,581
+49,,Garvin,40,582
+49,,Grand,8,583
+49,,Idaho,16,584
+49,,Lewis,36,585
+49,,Pacific,53,586
+49,Brownwood,Brown,48,587
+49,Columbus,Franklin,39,588
+49,Des Moines,Dallas,19,589
+49,Erie,Erie,42,590
+49,Fairmont,Marion,54,591
+49,Flint,Genesee,26,592
+49,Helena,Lewis and Clark,30,593
+49,Jackson,Hinds,28,594
+49,Lexington,Clark,21,595
+49,Madison,Iowa,55,596
+49,New Bern,Craven,37,597
+49,Provo,Utah,49,598
+49,Red Wing,Goodhue,27,599
+49,Santa Fe,Santa Fe,35,600
+49,Wauchula,Hardee,12,601
+51,,Gibson,18,602
+51,,Gladwin,26,603
+51,,Gunnison,8,604
+51,,Mono,6,605
+51,Clewiston,Hendry,12,606
+51,Fayetteville,Cumberland,37,607
+51,Heber,Wasatch,49,608
+51,Hot Springs,Garland,5,609
+51,Idaho Falls,Jefferson,16,610
+51,Jefferson City,Cole,29,611
+51,Montgomery,Elmore,1,612
+51,Myrtle Beach,Horry,45,613
+51,New Orleans,Jefferson,22,614
+51,Oklahoma City,Grady,40,615
+51,Pittsburgh,Fayette,42,616
+51,Portland,Multnomah,41,617
+51,Rochester,Livingston,36,618
+51,Savannah,Chatham,13,619
+51,Toledo,Fulton,39,620
+51,Tullahoma,Franklin,47,621
+53,,Burnet,48,622
+53,,Escambia,1,623
+53,,Gibson,47,624
+53,,Jefferson Davis,22,625
+53,Champaign-Urbana,Ford,17,626
+53,Fremont,Dodge,31,627
+53,Hilton Head Island,Jasper,45,628
+53,Marion,Grant,18,629
+53,Minneapolis-St Paul,Hennepin,27,630
+53,Richmond,Dinwiddie,51,631
+53,Salem,Polk,41,632
+53,Salinas,Monterey,6,633
+53,Seattle,Pierce,53,634
+53,St. George,Washington,49,635
+53,Syracuse,Madison,36,636
+53,Tampa,Hernando,12,637
+53,Twin Falls,Jerome,16,638
+53,Virginia Beach,Currituck,37,639
+55,,Delaware,19,640
+55,,Giles,47,641
+55,,San Juan,53,642
+55,Chambersburg,Franklin,42,643
+55,Cleveland,Geauga,39,644
+55,Coeur d'Alene,Kootenai,16,645
+55,Columbia,Kershaw,45,646
+55,Gadsden,Etowah,1,647
+55,Garden City,Finney,20,648
+55,Kill Devil Hills,Dare,37,649
+55,La Crosse,Houston,27,650
+55,Lafayette,Lafayette,22,651
+55,Napa,Napa,6,652
+55,Omaha,Douglas,31,653
+55,Paragould,Greene,5,654
+55,Rochester,Monroe,36,655
+55,Sebring,Highlands,12,656
+55,Summerville,Chattooga,13,657
+55,Traverse City,Grand Traverse,26,658
+55,Watertown,Jefferson,55,659
+57,,Essex,51,660
+57,,Fayette,1,661
+57,,Hubbard,27,662
+57,,Juneau,55,663
+57,,Tillamook,41,664
+57,Alma,Gratiot,26,665
+57,Amsterdam,Montgomery,36,666
+57,Atlanta,Cherokee,13,667
+57,Burlington,Des Moines,19,668
+57,Canton,Fulton,17,669
+57,Charlotte,Lancaster,45,670
+57,Dayton,Greene,39,671
+57,Dodge City,Ford,20,672
+57,Houma,Lafourche,22,673
+57,Indianapolis,Hamilton,18,674
+57,Knoxville,Grainger,47,675
+57,Moscow,Latah,16,676
+57,Mount Vernon,Skagit,53,677
+57,Ogden,Weber,49,678
+57,Port Lavaca,Calhoun,48,679
+57,Tampa,Hillsborough,12,680
+57,Truckee,Nevada,6,681
+57,Winston-Salem,Davidson,37,682
+59,,Lemhi,16,683
+59,Athens,Clarke,13,684
+59,Bismarck,Morton,38,685
+59,Cambridge,Guernsey,39,686
+59,Chicago,Kenosha,55,687
+59,Denver,Jefferson,8,688
+59,Greeneville,Greene,47,689
+59,Greenville,Laurens,45,690
+59,Gulfport,Jackson,28,691
+59,Hermiston-Pendleton,Umatilla,41,692
+59,Hillsdale,Hillsdale,26,693
+59,Indianapolis,Hancock,18,694
+59,Los Angeles-Long Beach-Anaheim,Orange,6,695
+59,Malvern,Hot Spring,5,696
+59,Minneapolis-St Paul,Isanti,27,697
+59,New York,Nassau,36,698
+59,Ottawa,Franklin,20,699
+59,Owensboro,Daviess,21,700
+59,Portland,Skamania,53,701
+59,Spirit Lake,Dickinson,19,702
+59,Washington,Fairfax,51,703
+59,Winston-Salem,Davie,37,704
+61,,Duplin,37,705
+61,,Grundy,47,706
+61,,Itasca,27,707
+61,Albuquerque,Valencia,35,708
+61,Brownsville,Cameron,48,709
+61,Cincinnati,Hamilton,39,710
+61,Dothan,Geneva,1,711
+61,Dubuque,Dubuque,19,712
+61,Green Bay,Kewaunee,55,713
+61,Huntingdon,Huntingdon,42,714
+61,Junction City,Geary,20,715
+61,La Grande,Union,41,716
+61,Louisville/Jefferson County,Harrison,18,717
+61,Morgantown,Monongalia,54,718
+61,New York,New York,36,719
+61,Ruston,Lincoln,22,720
+61,Sacramento,Placer,6,721
+61,Seattle,Snohomish,53,722
+61,Vero Beach,Indian River,12,723
+61,Washington,Fauquier,51,724
+63,,Hughes,40,725
+63,,Huron,26,726
+63,,Jackson,12,727
+63,,Jefferson,28,728
+63,,Plumas,6,729
+63,Atlanta,Clayton,13,730
+63,Batesville,Independence,5,731
+63,Baton Rouge,Livingston,22,732
+63,Blacksburg,Floyd,51,733
+63,Buffalo,Niagara,36,734
+63,Chicago,Grundy,17,735
+63,Columbia,Lexington,45,736
+63,Durham,Durham,37,737
+63,Findlay,Hancock,39,738
+63,Indiana,Indiana,42,739
+63,Indianapolis,Hendricks,18,740
+63,La Crosse,La Crosse,55,741
+63,Missoula,Missoula,30,742
+63,Morristown,Hamblen,47,743
+63,Spokane,Spokane,53,744
+65,,Hardin,39,745
+65,,Jefferson,42,746
+65,,Kanabec,27,747
+65,,Lake,8,748
+65,Altus,Jackson,40,749
+65,Charlottesville,Fluvanna,51,750
+65,Chattanooga,Hamilton,47,751
+65,Lansing,Ingham,26,752
+65,New Castle,Henry,18,753
+65,Riverside,Riverside,6,754
+65,Rocky Mount,Edgecombe,37,755
+65,Tallahassee,Jefferson,12,756
+65,The Dalles,Wasco,41,757
+65,Utica,Oneida,36,758
+67,,Cass,48,759
+67,,Juniata,42,760
+67,Atlanta,Cobb,13,761
+67,Beatrice,Gage,31,762
+67,Burley,Minidoka,16,763
+67,Durango,La Plata,8,764
+67,Ionia,Ionia,26,765
+67,Kokomo,Howard,18,766
+67,Lexington,Fayette,21,767
+67,Olympia,Thurston,53,768
+67,Portland,Washington,41,769
+67,Roanoke,Franklin,51,770
+67,Sacramento,Sacramento,6,771
+67,Syracuse,Onondaga,36,772
+67,Willmar,Kandiyohi,27,773
+67,Winston-Salem,Forsyth,37,774
+69,,Hardeman,47,775
+69,,Henry,39,776
+69,,Iosco,26,777
+69,Dothan,Houston,1,778
+69,Douglas,Coffee,13,779
+69,Fort Collins,Larimer,8,780
+69,Huntington,Huntington,18,781
+69,Kennett,Dunklin,29,782
+69,Lewiston,Nez Perce,16,783
+69,Orlando,Lake,12,784
+69,Pine Bluff,Jefferson,5,785
+69,Raleigh,Franklin,37,786
+69,Rochester,Ontario,36,787
+69,Scranton,Lackawanna,42,788
+69,Wheeling,Ohio,54,789
+69,Winchester,Frederick,51,790
+71,,Hardin,47,791
+71,,Highland,39,792
+71,,Koochiching,27,793
+71,Blacksburg,Giles,51,794
+71,Charlotte,Gaston,37,795
+71,Fort Myers,Lee,12,796
+71,Houston,Chambers,48,797
+71,Lancaster,Lancaster,42,798
+71,Moultrie,Colquitt,13,799
+71,Newberry,Newberry,45,800
+71,New Orleans,Orleans,22,801
+71,New York,Orange,36,802
+71,Oxford,Lafayette,28,803
+71,Portland,Yamhill,41,804
+71,Riverside,San Bernardino,6,805
+71,Scottsboro,Jackson,1,806
+71,Seymour,Jackson,18,807
+71,St. Louis,Franklin,29,808
+71,Walla Walla,Walla Walla,53,809
+73,Augusta,Columbia,13,810
+73,Bellingham,Whatcom,53,811
+73,Birmingham,Jefferson,1,812
+73,Chicago,Jasper,18,813
+73,Columbus,Hocking,39,814
+73,Davenport,Henry,17,815
+73,Frankfort,Franklin,21,816
+73,Hattiesburg,Lamar,28,817
+73,Jacksonville,Cherokee,48,818
+73,Kingsport,Hawkins,47,819
+73,Monroe,Ouachita,22,820
+73,New Castle,Lawrence,42,821
+73,Rochester,Orleans,36,822
+73,San Diego,San Diego,6,823
+73,Seneca,Oconee,45,824
+73,Tallahassee,Leon,12,825
+73,Virginia Beach,Gloucester,51,826
+75,,Haywood,47,827
+75,,Iroquois,17,828
+75,,Lake,27,829
+75,,Levy,12,830
+75,Jackson,Jackson,26,831
+75,Lebanon,Lebanon,42,832
+75,Ontario,Payette,16,833
+75,Orangeburg,Orangeburg,45,834
+75,Pullman,Whitman,53,835
+75,Richmond,Goochland,51,836
+75,San Francisco,San Francisco,6,837
+75,Sterling,Logan,8,838
+75,Syracuse,Oswego,36,839
+77,,Grayson,51,840
+77,,Henderson,47,841
+77,Allentown,Lehigh,42,842
+77,Atlanta,Coweta,13,843
+77,Florence,Lauderdale,1,844
+77,Grand Junction,Mesa,8,845
+77,Greenville,Pickens,45,846
+77,Kalamazoo,Kalamazoo,26,847
+77,Madison,Jefferson,18,848
+77,Norwalk,Huron,39,849
+77,Oneonta,Otsego,36,850
+77,Oxford,Granville,37,851
+77,Springfield,Greene,29,852
+77,Stockton,San Joaquin,6,853
+77,Wahpeton,Richland,38,854
+77,Yakima,Yakima,53,855
+79,,Madison,12,856
+79,Alexandria,Rapides,22,857
+79,Charlottesville,Greene,51,858
+79,Columbia,Richland,45,859
+79,Fort Smith,LeFlore,40,860
+79,Grand Island,Hall,31,861
+79,Huntington,Putnam,54,862
+79,Jackson,Jackson,39,863
+79,Milwaukee,Milwaukee,55,864
+79,Minneapolis-St Paul,Le Sueur,27,865
+79,New York,Putnam,36,866
+79,North Vernon,Jennings,18,867
+79,Paris,Henry,47,868
+79,San Luis Obispo,San Luis Obispo,6,869
+79,Scranton,Luzerne,42,870
+79,Traverse City,Kalkaska,26,871
+79,Wichita,Harvey,20,872
+81,,Guilford,37,873
+81,,Monroe,55,874
+81,Auburn,Lee,1,875
+81,Beckley,Raleigh,54,876
+81,Cincinnati,Grant,21,877
+81,Cordele,Crisp,13,878
+81,Grand Rapids,Kent,26,879
+81,Indianapolis,Johnson,18,880
+81,Mount Vernon,Jefferson,17,881
+81,Nashville,Hickman,47,882
+81,New York,Queens,36,883
+81,North Port-Sarasota-Bradenton,Manatee,12,884
+81,Oklahoma City,Lincoln,40,885
+81,San Francisco,San Mateo,6,886
+81,Spearfish,Lawrence,46,887
+81,Tupelo,Lee,28,888
+81,Williamsport,Lycoming,42,889
+83,,Halifax,51,890
+83,,Houston,47,891
+83,,Montezuma,8,892
+83,Albany,Rensselaer,36,893
+83,Bradford,McKean,42,894
+83,Chattanooga,Dade,13,895
+83,Green Bay,Oconto,55,896
+83,Huntsville,Limestone,1,897
+83,Marshall,Lyon,27,898
+83,Mount Vernon,Knox,39,899
+83,Ocala,Marion,12,900
+83,Roanoke Rapids,Halifax,37,901
+83,Santa Maria-Santa Barbara,Santa Barbara,6,902
+83,Spartanburg,Spartanburg,45,903
+83,St. Louis,Jersey,17,904
+83,Twin Falls,Twin Falls,16,905
+85,,Humphreys,47,906
+85,,Oneida,55,907
+85,,Valley,16,908
+85,Atlanta,Dawson,13,909
+85,Cleveland,Lake,39,910
+85,Dallas-Fort Worth,Collin,48,911
+85,Dunn,Harnett,37,912
+85,Hutchinson,McLeod,27,913
+85,Little Rock,Lonoke,5,914
+85,Montrose,Montrose,8,915
+85,New York,Richmond,36,916
+85,Port St. Lucie,Martin,12,917
+85,Richmond,Hanover,51,918
+85,San Jose,Santa Clara,6,919
+85,Sumter,Sumter,45,920
+85,Warsaw,Kosciusko,18,921
+85,Youngstown,Mercer,42,922
+86,Miami-Fort Lauderdale,Miami-Dade,12,923
+87,Appleton,Outagamie,55,924
+87,Asheville,Haywood,37,925
+87,Bainbridge,Decatur,13,926
+87,Columbus,Lowndes,28,927
+87,Cookeville,Jackson,47,928
+87,Detroit,Lapeer,26,929
+87,Fayetteville,Madison,5,930
+87,Huntington,Lawrence,39,931
+87,Key West,Monroe,12,932
+87,New York,Rockland,36,933
+87,Oklahoma City,McClain,40,934
+87,Richmond,Henrico,51,935
+87,Santa Cruz,Santa Cruz,6,936
+89,,Marion,5,937
+89,,McCurtain,40,938
+89,,Otero,8,939
+89,Asheville,Henderson,37,940
+89,Atlanta,Dekalb,13,941
+89,Chicago,Kane,17,942
+89,Chicago,Lake,18,943
+89,Columbus,Licking,39,944
+89,Dickinson,Stark,38,945
+89,East Stroudsburg,Monroe,42,946
+89,Jackson,Madison,28,947
+89,Jacksonville,Nassau,12,948
+89,Martinsville,Henry,51,949
+89,Milwaukee,Ozaukee,55,950
+89,Morristown,Jefferson,47,951
+89,New Orleans,Saint Charles,22,952
+89,Ogdensburg,Saint Lawrence,36,953
+89,Redding,Shasta,6,954
+90,Fairbanks,Fairbanks North Star,2,955
+91,,Johnson,47,956
+91,,Marshall,46,957
+91,,Martin,27,958
+91,,McIntosh,40,959
+91,,Ouray,8,960
+91,Adrian,Lenawee,26,961
+91,Albany,Saratoga,36,962
+91,Bellefontaine,Logan,39,963
+91,Crestview-Fort Walton Beach-Destin,Okaloosa,12,964
+91,Kankakee,Kankakee,17,965
+91,Kansas City,Johnson,20,966
+91,Michigan City,La Porte,18,967
+91,Philadelphia,Montgomery,42,968
+91,San Antonio,Comal,48,969
+91,Texarkana,Miller,5,970
+91,West Plains,Howell,29,971
+93,,Meeker,27,972
+93,,Siskiyou,6,973
+93,Albany,Schenectady,36,974
+93,Bedford,Lawrence,18,975
+93,Bloomsburg,Montour,42,976
+93,Chicago,Kendall,17,977
+93,Cleveland,Lorain,39,978
+93,Denver,Park,8,979
+93,Detroit,Livingston,26,980
+93,Elizabethtown,Hardin,21,981
+93,Jamestown,Stutsman,38,982
+93,Knoxville,Knox,47,983
+93,Minneapolis-St Paul,Pierce,55,984
+93,Okeechobee,Okeechobee,12,985
+93,Virginia Beach,Isle of Wight,51,986
+95,,Iowa,19,987
+95,,Marshall,40,988
+95,,Polk,55,989
+95,,Stillwater,30,990
+95,Albany,Dougherty,13,991
+95,Albany,Schoharie,36,992
+95,Allentown,Northampton,42,993
+95,Galesburg,Knox,17,994
+95,Indianapolis,Madison,18,995
+95,Kansas City,Jackson,29,996
+95,Minneapolis-St Paul,Mille Lacs,27,997
+95,New Orleans,Saint John the Baptist,22,998
+95,Orlando,Orange,12,999
+95,Toledo,Lucas,39,1000
+95,Vallejo,Solano,6,1001
+95,Virginia Beach,James City,51,1002
+97,,Lauderdale,47,1003
+97,,Mayes,40,1004
+97,,Morrison,27,1005
+97,,Schuyler,36,1006
+97,Atlanta,Douglas,13,1007
+97,Charlotte,Iredell,37,1008
+97,Chicago,Lake,17,1009
+97,Columbus,Madison,39,1010
+97,Gainesville,Cooke,48,1011
+97,Glenwood Springs,Pitkin,8,1012
+97,Indianapolis,Marion,18,1013
+97,Mobile,Mobile,1,1014
+97,Orlando,Osceola,12,1015
+97,Santa Rosa,Sonoma,6,1016
+97,Stevens Point,Portage,55,1017
+97,Sunbury,Northumberland,42,1018
+99,,King George,51,1019
+99,,Murray,40,1020
+99,Austin,Mower,27,1021
+99,Cullowhee,Jackson,37,1022
+99,Detroit,Macomb,26,1023
+99,Harrisburg,Perry,42,1024
+99,Huntington,Wayne,54,1025
+99,Killeen,Coryell,48,1026
+99,Lawrenceburg,Lawrence,47,1027
+99,Miami-Fort Lauderdale,Palm Beach,12,1028
+99,Modesto,Stanislaus,6,1029
+99,Newton,Jasper,19,1030
+99,Ottawa,La Salle,17,1031
+99,Plymouth,Marshall,18,1032
+99,Seneca Falls,Seneca,36,1033
+99,Sioux Falls,Minnehaha,46,1034
+99,St. Louis,Jefferson,29,1035
+99,Youngstown,Mahoning,39,1036
+101,,Lewis,47,1037
+101,,Manistee,26,1038
+101,Corning,Steuben,36,1039
+101,Evansville,Henderson,21,1040
+101,Marion,Marion,39,1041
+101,Minot,Ward,38,1042
+101,Montgomery,Montgomery,1,1043
+101,Morgan City,Saint Mary,22,1044
+101,Muskogee,Muskogee,40,1045
+101,Philadelphia,Philadelphia,42,1046
+101,Pueblo,Pueblo,8,1047
+101,Racine,Racine,55,1048
+101,Raleigh,Johnston,37,1049
+101,Richmond,King William,51,1050
+101,Tampa,Pasco,12,1051
+101,Warrensburg,Johnson,29,1052
+101,Yuba City,Sutter,6,1053
+103,,Lancaster,51,1054
+103,,Lincoln,47,1055
+103,Cleveland,Medina,39,1056
+103,Iowa City,Johnson,19,1057
+103,Kansas City,Leavenworth,20,1058
+103,Marquette,Marquette,26,1059
+103,New Orleans,Saint Tammany,22,1060
+103,New York,Pike,42,1061
+103,New York,Suffolk,36,1062
+103,Peru,Miami,18,1063
+103,Rapid City,Pennington,46,1064
+103,Savannah,Effingham,13,1065
+103,Tampa,Pinellas,12,1066
+105,,Elbert,13,1067
+105,,Sullivan,36,1068
+105,,Trinity,6,1069
+105,Bloomington,Monroe,18,1070
+105,Hammond,Tangipahoa,22,1071
+105,Knoxville,Loudon,47,1072
+105,Lakeland,Polk,12,1073
+105,Lebanon,Laclede,29,1074
+105,Ludington,Mason,26,1075
+105,Pontiac,Livingston,17,1076
+105,Sanford,Lee,37,1077
+105,Williston,Williams,38,1078
+107,,Emanuel,13,1079
+107,,Potter,46,1080
+107,,Wheatland,30,1081
+107,Athens,McMinn,47,1082
+107,Big Rapids,Mecosta,26,1083
+107,Binghamton,Tioga,36,1084
+107,Celina,Mercer,39,1085
+107,Crawfordsville,Montgomery,18,1086
+107,Kinston,Lenoir,37,1087
+107,Lincoln,Logan,17,1088
+107,Madisonville,Hopkins,21,1089
+107,Palatka,Putnam,12,1090
+107,Parkersburg,Wood,54,1091
+107,Steamboat Springs,Routt,8,1092
+107,Visalia,Tulare,6,1093
+107,Washington,Loudoun,51,1094
+109,,Lawrence,29,1095
+109,,Louisa,51,1096
+109,,McNairy,47,1097
+109,Charlotte,Lincoln,37,1098
+109,Dayton,Miami,39,1099
+109,Houma,Terrebonne,22,1100
+109,Ithaca,Tompkins,36,1101
+109,Jacksonville,Saint Johns,12,1102
+109,Lincoln,Lancaster,31,1103
+109,Macomb,McDonough,17,1104
+109,Minneapolis-St Paul,Saint Croix,55,1105
+109,Oklahoma City,Oklahoma,40,1106
+109,Rochester,Olmsted,27,1107
+110,Juneau,Juneau,2,1108
+111,,Fannin,13,1109
+111,Baraboo,Sauk,55,1110
+111,Billings,Yellowstone,30,1111
+111,Chicago,McHenry,17,1112
+111,Chicago,Newton,18,1113
+111,Fergus Falls,Otter Tail,27,1114
+111,Fort Madison,Lee,19,1115
+111,Kingston,Ulster,36,1116
+111,Louisville/Jefferson County,Jefferson,21,1117
+111,Marion,McDowell,37,1118
+111,Midland,Midland,26,1119
+111,Nashville,Macon,47,1120
+111,North Platte,Lincoln,31,1121
+111,Port St. Lucie,Saint Lucie,12,1122
+111,Somerset,Somerset,42,1123
+111,Tulsa,Okmulgee,40,1124
+111,Ventura,Ventura,6,1125
+113,,Macon,37,1126
+113,,Pennington,27,1127
+113,,Polk,5,1128
+113,,San Miguel,8,1129
+113,,Sawyer,55,1130
+113,Atlanta,Fayette,13,1131
+113,Bloomington,McLean,17,1132
+113,Cadillac,Missaukee,26,1133
+113,Cedar Rapids,Linn,19,1134
+113,Columbus,Russell,1,1135
+113,Dallas-Fort Worth,Dallas,48,1136
+113,Dayton,Montgomery,39,1137
+113,Glens Falls,Warren,36,1138
+113,Jackson,Madison,47,1139
+113,Kendallville,Noble,18,1140
+113,Lexington,Jessamine,21,1141
+113,McComb,Pike,28,1142
+113,McPherson,McPherson,20,1143
+113,Pensacola,Santa Rosa,12,1144
+113,Sacramento,Yolo,6,1145
+113,St. Louis,Lincoln,29,1146
+113,Tulsa,Osage,40,1147
+115,,Pine,27,1148
+115,,Susquehanna,42,1149
+115,Asheville,Madison,37,1150
+115,Birmingham,Saint Clair,1,1151
+115,Chattanooga,Marion,47,1152
+115,Cincinnati,Ohio,18,1153
+115,Decatur,Macon,17,1154
+115,Fort Polk South,Vernon,22,1155
+115,Glens Falls,Washington,36,1156
+115,Miami,Ottawa,40,1157
+115,Monroe,Monroe,26,1158
+115,North Port-Sarasota-Bradenton,Sarasota,12,1159
+115,Rome,Floyd,13,1160
+115,Russellville,Pope,5,1161
+117,,Mecklenburg,51,1162
+117,,Tioga,42,1163
+117,Atlanta,Forsyth,13,1164
+117,Birmingham,Shelby,1,1165
+117,Bogalusa,Washington,22,1166
+117,Breckenridge,Summit,8,1167
+117,Cincinnati,Kenton,21,1168
+117,Columbus,Morrow,39,1169
+117,Grand Rapids,Montcalm,26,1170
+117,Lewisburg,Marshall,47,1171
+117,Orlando,Seminole,12,1172
+117,Rochester,Wayne,36,1173
+117,St. Louis,Macoupin,17,1174
+119,,Franklin,13,1175
+119,,Middlesex,51,1176
+119,Bloomington,Owen,18,1177
+119,Charlotte,Mecklenburg,37,1178
+119,Colorado Springs,Teller,8,1179
+119,Grand Forks,Polk,27,1180
+119,Little Rock,Pulaski,5,1181
+119,Nashville,Maury,47,1182
+119,New York,Westchester,36,1183
+119,Norfolk,Madison,31,1184
+119,Stillwater,Payne,40,1185
+119,St. Louis,Madison,17,1186
+119,The Villages,Sumter,12,1187
+119,Zanesville,Muskingum,39,1188
+121,,Meigs,47,1189
+121,,Suwannee,12,1190
+121,,Trempealeau,55,1191
+121,Atlanta,Fulton,13,1192
+121,Baton Rouge,West Baton Rouge,22,1193
+121,Dallas-Fort Worth,Denton,48,1194
+121,Des Moines,Madison,19,1195
+121,Jackson,Rankin,28,1196
+121,Kansas City,Miami,20,1197
+121,McAlester,Pittsburg,40,1198
+121,Muskegon,Muskegon,26,1199
+121,Oil City,Venango,42,1200
+121,Talladega,Talladega,1,1201
+122,,Kenai Peninsula,2,1202
+123,,Gilmer,13,1203
+123,,Monroe,47,1204
+123,,Montgomery,37,1205
+123,,Newaygo,26,1206
+123,,Perry,18,1207
+123,,Tallapoosa,1,1208
+123,,Taylor,12,1209
+123,Ada,Pontotoc,40,1210
+123,Greeley,Weld,8,1211
+123,Minneapolis-St Paul,Ramsey,27,1212
+123,Oskaloosa,Mahaska,19,1213
+123,Port Clinton,Ottawa,39,1214
+123,Rochester,Yates,36,1215
+123,Warren,Warren,42,1216
+125,,Marion,19,1217
+125,,Vilas,55,1218
+125,Charlottesville,Nelson,51,1219
+125,Clarksville,Montgomery,47,1220
+125,Coffeyville,Montgomery,20,1221
+125,Detroit,Oakland,26,1222
+125,Little Rock,Saline,5,1223
+125,London,Laurel,21,1224
+125,Pinehurst-Southern Pines,Moore,37,1225
+125,Pittsburgh,Washington,42,1226
+125,Shawnee,Pottawatomie,40,1227
+125,Tuscaloosa,Tuscaloosa,1,1228
+127,,Oceana,26,1229
+127,,Wayne,42,1230
+127,Birmingham,Walker,1,1231
+127,Brunswick,Glynn,13,1232
+127,Chicago,Porter,18,1233
+127,Columbus,Perry,39,1234
+127,Daytona Beach,Volusia,12,1235
+127,Marshalltown,Marshall,19,1236
+127,Rocky Mount,Nash,37,1237
+127,Whitewater,Walworth,55,1238
+129,,Renville,27,1239
+129,Calhoun,Gordon,13,1240
+129,Columbus,Pickaway,39,1241
+129,Evansville,Posey,18,1242
+129,Knoxville,Morgan,47,1243
+129,Omaha,Mills,19,1244
+129,Pittsburgh,Westmoreland,42,1245
+129,Springfield,Menard,17,1246
+129,Tallahassee,Wakulla,12,1247
+129,Wilmington,New Hanover,37,1248
+131,,Grady,13,1249
+131,,Otoe,31,1250
+131,Crestview-Fort Walton Beach-Destin,Walton,12,1251
+131,Faribault,Rice,27,1252
+131,Fort Smith,Sebastian,5,1253
+131,Milwaukee,Washington,55,1254
+131,Tulsa,Rogers,40,1255
+131,Union City,Obion,47,1256
+133,,Greene,13,1257
+133,,Seminole,40,1258
+133,Akron,Portage,39,1259
+133,Cookeville,Overton,47,1260
+133,Indianapolis,Putnam,18,1261
+133,Milwaukee,Waukesha,55,1262
+133,York,York,42,1263
+135,,Montgomery,17,1264
+135,,Ness,20,1265
+135,,Preble,39,1266
+135,,Randolph,18,1267
+135,,Sharp,5,1268
+135,,Waupaca,55,1269
+135,Atlanta,Gwinnett,13,1270
+135,Durham,Orange,37,1271
+135,Fort Smith,Sequoyah,40,1272
+135,Jefferson City,Moniteau,29,1273
+135,Odessa,Ector,48,1274
+135,Yankton,Yankton,46,1275
+137,,Montgomery,19,1276
+137,,Orange,51,1277
+137,,Otsego,26,1278
+137,,Putnam,39,1279
+137,Cornelia,Habersham,13,1280
+137,Danville,Lincoln,21,1281
+137,Duluth,Saint Louis,27,1282
+137,Duncan,Stephens,40,1283
+137,New Bern,Pamlico,37,1284
+139,,Page,51,1285
+139,,Rush,18,1286
+139,Cleveland,Polk,47,1287
+139,Dallas-Fort Worth,Ellis,48,1288
+139,El Dorado,Union,5,1289
+139,Elizabeth City,Pasquotank,37,1290
+139,Grand Rapids,Ottawa,26,1291
+139,Mansfield,Richland,39,1292
+139,Minneapolis-St Paul,Scott,27,1293
+139,Muscatine,Muscatine,19,1294
+139,Oshkosh,Winnebago,55,1295
+141,,O Brien,19,1296
+141,,Presque Isle,26,1297
+141,,Van Buren,5,1298
+141,Chillicothe,Ross,39,1299
+141,Columbus,Platte,31,1300
+141,Cookeville,Putnam,47,1301
+141,El Paso,El Paso,48,1302
+141,Minneapolis-St Paul,Sherburne,27,1303
+141,South Bend,Saint Joseph,18,1304
+141,Wilmington,Pender,37,1305
+143,,Roscommon,26,1306
+143,Atlanta,Haralson,13,1307
+143,Danville,Pittsylvania,51,1308
+143,Dayton,Rhea,47,1309
+143,Fayetteville,Washington,5,1310
+143,Fremont,Sandusky,39,1311
+143,Louisville/Jefferson County,Scott,18,1312
+143,Peoria,Peoria,17,1313
+143,Stephenville,Erath,48,1314
+143,Tulsa,Tulsa,40,1315
+145,,Perry,17,1316
+145,,Red Willow,31,1317
+145,Columbus,Harris,13,1318
+145,Durham,Person,37,1319
+145,Indianapolis,Shelby,18,1320
+145,Knoxville,Roane,47,1321
+145,Paducah,McCracken,21,1322
+145,Richmond,Powhatan,51,1323
+145,Saginaw,Saginaw,26,1324
+145,Searcy,White,5,1325
+145,St. Cloud,Stearns,27,1326
+145,Tulsa,Wagoner,40,1327
+147,,Fannin,48,1328
+147,,Spencer,18,1329
+147,Bartlesville,Washington,40,1330
+147,Champaign-Urbana,Piatt,17,1331
+147,Detroit,Saint Clair,26,1332
+147,Greenville,Pitt,37,1333
+147,Nashville,Robertson,47,1334
+147,Owatonna,Steele,27,1335
+147,Tiffin,Seneca,39,1336
+149,,Polk,37,1337
+149,,Starke,18,1338
+149,Nashville,Rutherford,47,1339
+149,Richmond,Prince George,51,1340
+149,Sidney,Shelby,39,1341
+149,Sturgis,Saint Joseph,26,1342
+151,,Sanilac,26,1343
+151,,Scott,47,1344
+151,,Woods,40,1345
+151,Angola,Steuben,18,1346
+151,Atlanta,Henry,13,1347
+151,Canton,Stark,39,1348
+151,Greensboro,Randolph,37,1349
+151,Richmond,Madison,21,1350
+153,,Todd,27,1351
+153,Akron,Summit,39,1352
+153,Chattanooga,Sequatchie,47,1353
+153,Des Moines,Polk,19,1354
+153,Omaha,Sarpy,31,1355
+153,Terre Haute,Sullivan,18,1356
+153,Warner Robins,Houston,13,1357
+153,Washington,Prince William,51,1358
+153,Woodward,Woodward,40,1359
+155,,Marion,21,1360
+155,Blacksburg,Pulaski,51,1361
+155,Hutchinson,Reno,20,1362
+155,Lumberton,Robeson,37,1363
+155,Omaha,Pottawattamie,19,1364
+155,Omaha,Saunders,31,1365
+155,Owosso,Shiawassee,26,1366
+155,Sevierville,Sevier,47,1367
+155,Youngstown,Trumbull,39,1368
+157,,Marshall,21,1369
+157,,Perry,29,1370
+157,,Poweshiek,19,1371
+157,,Rockingham,37,1372
+157,Houston,Fort Bend,48,1373
+157,Jefferson,Jackson,13,1374
+157,Lafayette-West Lafayette,Tippecanoe,18,1375
+157,Memphis,Shelby,47,1376
+157,Rochester,Wabasha,27,1377
+157,Scottsbluff,Scotts Bluff,31,1378
+159,,Wadena,27,1379
+159,Atlanta,Jasper,13,1380
+159,Charlotte,Rowan,37,1381
+159,Columbus,Union,39,1382
+159,Kalamazoo,Van Buren,26,1383
+159,Lincoln,Seward,31,1384
+159,Nashville,Smith,47,1385
+161,,Stewart,47,1386
+161,,Waseca,27,1387
+161,Ann Arbor,Washtenaw,26,1388
+161,Davenport,Rock Island,17,1389
+161,Forest City,Rutherford,37,1390
+161,Roanoke,Roanoke,51,1391
+161,Van Wert,Van Wert,39,1392
+163,,Rockbridge,51,1393
+163,,Sampson,37,1394
+163,Davenport,Scott,19,1395
+163,Detroit,Wayne,26,1396
+163,Elizabethtown,Meade,21,1397
+163,Evansville,Vanderburgh,18,1398
+163,Kingsport,Sullivan,47,1399
+163,Minneapolis-St Paul,Washington,27,1400
+163,St. Louis,Saint Clair,17,1401
+165,,Saline,17,1402
+165,Cadillac,Wexford,26,1403
+165,Cincinnati,Warren,39,1404
+165,Harrisonburg,Rockingham,51,1405
+165,Kansas City,Platte,29,1406
+165,Laurinburg,Scotland,37,1407
+165,Nashville,Sumner,47,1408
+167,,Mercer,21,1409
+167,,Sioux,19,1410
+167,Albemarle,Stanly,37,1411
+167,Houston,Galveston,48,1412
+167,Marietta,Washington,39,1413
+167,Memphis,Tipton,47,1414
+167,Springfield,Polk,29,1415
+167,Springfield,Sangamon,17,1416
+167,Terre Haute,Vigo,18,1417
+169,Ames,Story,19,1418
+169,Fort Leonard Wood,Pulaski,29,1419
+169,Macon,Jones,13,1420
+169,Nashville,Trousdale,47,1421
+169,Salina,Saline,20,1422
+169,Wabash,Wabash,18,1423
+169,Winona,Winona,27,1424
+169,Winston-Salem,Stokes,37,1425
+169,Wooster,Wayne,39,1426
+170,Anchorage,Matanuska Susitna,2,1427
+171,,Shenandoah,51,1428
+171,,Williams,39,1429
+171,Atlanta,Lamar,13,1430
+171,Fredericksburg,Gillespie,48,1431
+171,Johnson City,Unicoi,47,1432
+171,Minneapolis-St Paul,Wright,27,1433
+171,Mount Airy,Surry,37,1434
+173,,Smyth,51,1435
+173,,Swain,37,1436
+173,Evansville,Warrick,18,1437
+173,Knoxville,Union,47,1438
+173,Mount Sterling,Montgomery,21,1439
+173,Toledo,Wood,39,1440
+173,Wichita,Sedgwick,20,1441
+175,,Southampton,51,1442
+175,Brevard,Transylvania,37,1443
+175,Dublin,Laurens,13,1444
+175,Louisville/Jefferson County,Washington,18,1445
+175,Moberly,Randolph,29,1446
+177,,Muhlenberg,21,1447
+177,Albany,Lee,13,1448
+177,McMinnville,Warren,47,1449
+177,Omaha,Washington,31,1450
+177,Topeka,Shawnee,20,1451
+177,Washington,Spotsylvania,51,1452
+179,Bardstown,Nelson,21,1453
+179,Fort Wayne,Wells,18,1454
+179,Hinesville,Liberty,13,1455
+179,Johnson City,Washington,47,1456
+179,Ottumwa,Wapello,19,1457
+179,Peoria,Tazewell,17,1458
+179,Washington,Stafford,51,1459
+181,,White,18,1460
+181,Des Moines,Warren,19,1461
+181,Henderson,Vance,37,1462
+183,Danville,Vermilion,17,1463
+183,Fort Wayne,Whitley,18,1464
+183,Hinesville,Long,13,1465
+183,Iowa City,Washington,19,1466
+183,Martin,Weakley,47,1467
+183,Raleigh,Wake,37,1468
+183,St. Louis,Saint Charles,29,1469
+185,,White,47,1470
+185,Bluefield,Tazewell,51,1471
+185,Louisville/Jefferson County,Oldham,21,1472
+185,Valdosta,Lowndes,13,1473
+187,,Lumpkin,13,1474
+187,Farmington,Saint Francois,29,1475
+187,Fort Dodge,Webster,19,1476
+187,Nashville,Williamson,47,1477
+187,San Antonio,Guadalupe,48,1478
+187,Washington,Warren,51,1479
+189,Augusta,McDuffie,13,1480
+189,Boone,Watauga,37,1481
+189,Nashville,Wilson,47,1482
+189,Plainview,Hale,48,1483
+189,St. Louis,Saint Louis,29,1484
+191,Goldsboro,Wayne,37,1485
+191,Kingsport,Washington,51,1486
+193,Sioux City,Woodbury,19,1487
+195,Athens,Madison,13,1488
+195,Sterling,Whiteside,17,1489
+195,Wilson,Wilson,37,1490
+197,,Wythe,51,1491
+197,Chicago,Will,17,1492
+199,Atlanta,Meriwether,13,1493
+199,Beaumont,Hardin,48,1494
+199,Somerset,Pulaski,21,1495
+199,Virginia Beach,York,51,1496
+201,Houston,Harris,48,1497
+201,Rockford,Winnebago,17,1498
+203,Peoria,Woodford,17,1499
+207,Macon,Monroe,13,1500
+209,Austin,Hays,48,1501
+209,Kansas City,Wyandotte,20,1502
+209,Lexington,Scott,21,1503
+211,Atlanta,Morgan,13,1504
+211,Louisville/Jefferson County,Shelby,21,1505
+213,Athens,Henderson,48,1506
+213,Branson,Taney,29,1507
+213,Dalton,Murray,13,1508
+215,Columbus,Muscogee,13,1509
+215,Louisville/Jefferson County,Spencer,21,1510
+215,McAllen,Hidalgo,48,1511
+217,,Hill,48,1512
+217,Atlanta,Newton,13,1513
+217,Campbellsville,Taylor,21,1514
+219,Athens,Oconee,13,1515
+221,Athens,Oglethorpe,13,1516
+221,Clarksville,Trigg,21,1517
+221,Dallas-Fort Worth,Hood,48,1518
+225,Warner Robins,Peach,13,1519
+227,Bowling Green,Warren,21,1520
+229,Waycross,Pierce,13,1521
+231,Atlanta,Pike,13,1522
+231,Dallas-Fort Worth,Hunt,48,1523
+233,Cedartown,Polk,13,1524
+237,,Putnam,13,1525
+241,,Rabun,13,1526
+245,Beaumont,Jefferson,48,1527
+247,Atlanta,Rockdale,13,1528
+251,Dallas-Fort Worth,Johnson,48,1529
+257,Dallas-Fort Worth,Kaufman,48,1530
+257,Toccoa,Stephens,13,1531
+259,San Antonio,Kendall,48,1532
+261,Americus,Sumter,13,1533
+265,Kerrville,Kerr,48,1534
+267,,Tattnall,13,1535
+275,Thomasville,Thomas,13,1536
+277,Tifton,Tift,13,1537
+279,Vidalia,Toombs,13,1538
+281,,Towns,13,1539
+285,LaGrange,Troup,13,1540
+291,,Union,13,1541
+293,Thomaston,Upson,13,1542
+295,Chattanooga,Walker,13,1543
+297,Atlanta,Walton,13,1544
+299,,Llano,48,1545
+299,Waycross,Ware,13,1546
+303,Lubbock,Lubbock,48,1547
+305,Jesup,Wayne,13,1548
+309,Waco,McLennan,48,1549
+311,,White,13,1550
+313,Dalton,Whitfield,13,1551
+321,Bay City,Matagorda,48,1552
+323,Eagle Pass,Maverick,48,1553
+325,San Antonio,Medina,48,1554
+329,Midland,Midland,48,1555
+333,,Mills,48,1556
+337,,Montague,48,1557
+339,Houston,Montgomery,48,1558
+355,Corpus Christi,Nueces,48,1559
+361,Beaumont,Orange,48,1560
+363,Mineral Wells,Palo Pinto,48,1561
+367,Dallas-Fort Worth,Parker,48,1562
+373,,Polk,48,1563
+375,Amarillo,Potter,48,1564
+397,Dallas-Fort Worth,Rockwall,48,1565
+423,Tyler,Smith,48,1566
+439,Dallas-Fort Worth,Tarrant,48,1567
+441,Abilene,Taylor,48,1568
+451,San Angelo,Tom Green,48,1569
+453,Austin,Travis,48,1570
+465,Del Rio,Val Verde,48,1571
+467,,Van Zandt,48,1572
+469,Victoria,Victoria,48,1573
+471,Huntsville,Walker,48,1574
+473,Houston,Waller,48,1575
+477,Brenham,Washington,48,1576
+479,Laredo,Webb,48,1577
+481,El Campo,Wharton,48,1578
+485,Wichita Falls,Wichita,48,1579
+491,Austin,Williamson,48,1580
+493,San Antonio,Wilson,48,1581
+497,Dallas-Fort Worth,Wise,48,1582
+510,Baltimore,Baltimore City,24,1583
+510,Carson City,Carson City,32,1584
+510,St. Louis,Saint Louis City,29,1585
+520,Kingsport,Bristol City,51,1586
+540,Charlottesville,Charlottesville City,51,1587
+550,Virginia Beach,Chesapeake City,51,1588
+570,Richmond,Colonial Heights City,51,1589
+590,Danville,Danville City,51,1590
+600,Washington,Fairfax City,51,1591
+610,Washington,Falls Church City,51,1592
+630,Washington,Fredericksburg City,51,1593
+650,Virginia Beach,Hampton City,51,1594
+660,Harrisonburg,Harrisonburg City,51,1595
+670,Richmond,Hopewell City,51,1596
+680,Lynchburg,Lynchburg City,51,1597
+700,Virginia Beach,Newport News City,51,1598
+710,Virginia Beach,Norfolk City,51,1599
+735,Virginia Beach,Poquoson City,51,1600
+740,Virginia Beach,Portsmouth City,51,1601
+760,Richmond,Richmond City,51,1602
+770,Roanoke,Roanoke City,51,1603
+775,Roanoke,Salem City,51,1604
+800,Virginia Beach,Suffolk City,51,1605
+810,Virginia Beach,Virginia Beach City,51,1606
+820,Staunton,Waynesboro City,51,1607
+830,Virginia Beach,Williamsburg City,51,1608
+840,Winchester,Winchester City,51,1609
