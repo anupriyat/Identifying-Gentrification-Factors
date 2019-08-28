@@ -16,4 +16,3 @@ Neighborhoods in big cities are in a constant state of change due to the movemen
 
 ![alt text] (https://github.com/anupriyat/Identifying-Gentrification-Factors/blob/master/Chicago%20Bronzeville%20Gentrificatiom%20Risk.png)
 
-![alt text] (https://raw.githubusercontent.com/anupriyat/Identifying-Gentrification-Factors/blob/master/Chicago%20Bronzeville%20Gentrificatiom%20Risk.png)
