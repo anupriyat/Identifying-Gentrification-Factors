@@ -15,3 +15,5 @@ Neighborhoods in big cities are in a constant state of change due to the movemen
 6. Summarized the areas at a high risk of gentrification, so city planners can take necessary measures to mitigate gentrification effects. 
 
 ![alt text] (https://github.com/anupriyat/Identifying-Gentrification-Factors/blob/master/Chicago%20Bronzeville%20Gentrificatiom%20Risk.png)
+
+![alt text] (https://raw.githubusercontent.com/anupriyat/Identifying-Gentrification-Factors/blob/master/Chicago%20Bronzeville%20Gentrificatiom%20Risk.png)
