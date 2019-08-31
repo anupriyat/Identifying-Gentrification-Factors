@@ -11,10 +11,17 @@ Neighborhoods in big cities are in a constant state of change due to the movemen
 4. Create a datawarehouse dimensional model for analysis.
 
 5. Deployed Tableau server on top of GCP for reporting purpose, fiting statistical models and producing actionable insights through data visualization tools
-
-6. Summarized the areas at a high risk of gentrification, so city planners can take necessary measures to mitigate gentrification effects. 
-
-
-
+### Chicago Dashboard - Bronzeville Gentrification Risk
 ![Alt text](Chicago%20Bronzeville%20Gentrificatiom%20Risk.png?raw=true "Chicago Bronzeville Gentrificatiom Risk.png")
 
+### Los Angeles Dashboard
+![Alt text](Los%20Angeles%20Dashboard.png?raw=true "Los Angeles Dashboard.png")
+
+6. Summarized the areas at a high risk of gentrification, so city planners can take necessary measures to mitigate gentrification effects. 
+         
+        a. Gentrification areas identified in the result - Chicago(Bronzeville, Little Italy) & LA(Boyle Heights, Arlington     Heights, Koreatown)
+        b. Combined influencing factors into Gentrification Index (Gini Index). Among those factors: 
+              Income
+              Rent
+              Difference between actual and asked price of a housing unit
+        c. City planners can take necessary actions to mitigate these effects based on the indices calculated for all block groups that indicate early signs of gentrification
